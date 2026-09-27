@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+media-generation-*
+.DS_Store
+# The birthday spreadsheet contains personal contact details — never commit it.
+*.xlsx
+*.xls
