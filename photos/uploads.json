@@ -1,11 +1,5 @@
 [
  {
-  "code": "DENCD",
-  "name": "Brother Joseph Akindipe",
-  "file": "photos/DENCD.jpg",
-  "at": "2026-09-30T10:37:58.484248+00:00"
- },
- {
   "code": "SGDHG",
   "name": "Sister Joy Ogbodo",
   "file": "photos/SGDHG.jpg",
@@ -16,5 +10,11 @@
   "name": "Joseph Akindipe",
   "file": "photos/BMWSH.jpg",
   "at": "2026-10-02T12:34:21.154326+00:00"
+ },
+ {
+  "code": "DENCD",
+  "name": "Brother Joseph Akindipe",
+  "file": "photos/DENCD.jpg",
+  "at": "2026-10-02T12:48:08.374638+00:00"
  }
 ]
